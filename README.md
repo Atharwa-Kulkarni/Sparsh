@@ -1,10 +1,10 @@
-# Yaari
+# Sparsh Quilts and More
 
-Welcome to Yaari E-Commerce, an online shopping platform!
+Welcome to Sparsh Quilts and More E-Commerce, an online shopping platform!
 
 ## Overview
 
-Yaari E-Commerce is an online marketplace that offers a wide range of products for customers to browse, purchase, and track their orders. It provides a user-friendly interface for both buyers and sellers, making it easy to showcase products and facilitate secure transactions.
+Sparsh Quilts and More E-Commerce is an online marketplace that offers a wide range of products for customers to browse, purchase, and track their orders. It provides a user-friendly interface for both buyers and sellers, making it easy to showcase products and facilitate secure transactions.
 
 ## Features
 
@@ -29,7 +29,7 @@ Yaari E-Commerce is an online marketplace that offers a wide range of products f
 
 ## Usage
 
-To access the Yaari E-Commerce website, simply visit https://atharwa-kulkarni.github.io/Sparsh/ in your web browser.
+To access the Sparsh Quilts and More E-Commerce website, simply visit https://atharwa-kulkarni.github.io/Sparsh/ in your web browser.
 
 ## Development
 
