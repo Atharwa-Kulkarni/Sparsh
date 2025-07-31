@@ -29,7 +29,7 @@ Yaari E-Commerce is an online marketplace that offers a wide range of products f
 
 ## Usage
 
-To access the Yaari E-Commerce website, simply visit [https://atharwa-kulkarni.github.io/Yaari/](https://atharwa-kulkarni.github.io/Yaari/) in your web browser.
+To access the Yaari E-Commerce website, simply visit https://atharwa-kulkarni.github.io/Sparsh/ in your web browser.
 
 ## Development
 
